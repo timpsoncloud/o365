@@ -1,0 +1,5 @@
+<Configuration ID="b44c3a97-40a9-411b-9863-fb085e934a67">
+  <RemoveMSI />
+  <Remove All="TRUE" />
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
