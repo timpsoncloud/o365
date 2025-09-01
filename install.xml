@@ -1,18 +1,1 @@
-<Configuration ID="b44c3a97-40a9-411b-9863-fb085e934a67">
-  <Add OfficeClientEdition="64" Channel="SemiAnnual" MigrateArch="TRUE">
-    <Product ID="O365BusinessRetail">
-      <Language ID="en-gb" />
-      <ExcludeApp ID="Groove" />
-      <ExcludeApp ID="Lync" />
-      <ExcludeApp ID="OutlookForWindows" />
-    </Product>
-  </Add>
-  <Property Name="SharedComputerLicensing" Value="0" />
-  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
-  <Property Name="DeviceBasedLicensing" Value="0" />
-  <Property Name="SCLCacheOverride" Value="0" />
-  <Updates Enabled="TRUE" />
-  <RemoveMSI />
-  <Remove All="TRUE" />
-  <Display Level="None" AcceptEULA="TRUE" />
-</Configuration>
+
