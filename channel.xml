@@ -6,4 +6,5 @@
   </Add>
   <Updates Enabled="TRUE" Channel="SemiAnnual" />
   <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Display Level="None" AcceptEULA="TRUE" />
 </Configuration>
