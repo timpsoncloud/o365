@@ -1,0 +1,9 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="SemiAnnual">
+    <Product ID="O365BusinessRetail">
+      <Language ID="en-gb" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" Channel="SemiAnnual" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+</Configuration>
