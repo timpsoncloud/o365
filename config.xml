@@ -1,5 +1,5 @@
 <Configuration ID="b44c3a97-40a9-411b-9863-fb085e934a67">
-  <Add OfficeClientEdition="64" Channel="SemiAnnual">
+  <Add OfficeClientEdition="64" Channel="MonthlyEnterprise">
     <Product ID="O365BusinessRetail">
       <Language ID="en-gb" />
       <ExcludeApp ID="Groove" />
@@ -11,7 +11,7 @@
   <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
   <Property Name="DeviceBasedLicensing" Value="0" />
   <Property Name="SCLCacheOverride" Value="0" />
-  <Updates Enabled="TRUE" Channel="SemiAnnual" />
+  <Updates Enabled="TRUE" Channel="MonthlyEnterprise" />
   <RemoveMSI />
   <Remove All="TRUE" />
   <AppSettings>
@@ -21,3 +21,4 @@
   </AppSettings>
   <Display Level="None" AcceptEULA="TRUE" />
 </Configuration>
+
